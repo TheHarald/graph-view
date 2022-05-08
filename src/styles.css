@@ -4,7 +4,7 @@
 
 .node {
     fill: #ccc;
-    filter: drop-shadow(0 0 10px #fff) drop-shadow(-3px 0 10px #f0f) drop-shadow(3px 0 10px #0ff)
+    /* filter: drop-shadow(0 0 10px #fff) drop-shadow(-3px 0 10px #f0f) drop-shadow(3px 0 10px #0ff) */
 }
 
 .node-input {
@@ -15,7 +15,7 @@
 
 .link {
     stroke: #fff;
-    filter: drop-shadow(0px 0px 5px #ffffff) drop-shadow(0px 0 10px #0ff);
+    /* filter: drop-shadow(0px 0px 5px #ffffff) drop-shadow(0px 0 10px #0ff); */
 
     stroke-width: 2px;
 }

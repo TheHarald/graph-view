@@ -24,7 +24,7 @@ export function createGraph(cValue) {
         .links(links)
         .on('tick', tick)
         .linkDistance(() => {
-            let temp = Math.random() * (nodeSize * 7) + nodeSize * 2
+            let temp = Math.random() * (nodeSize * 7) + nodeSize * 3
             return temp
         })
         .gravity(.15)
