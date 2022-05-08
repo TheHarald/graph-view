@@ -1,1 +1,665 @@
-{"links":[{"source":"18e45ea0-4b12-47e6-94d2-7c316278d66c","target":"5a1bc7be-dae0-4d64-8a2f-23501e6395ea"},{"source":"18e45ea0-4b12-47e6-94d2-7c316278d66c","target":"27c99057-9133-43bb-b926-a78f5ddf592a"},{"source":"d074a6e7-630c-43a6-b780-daa418b2b7e7","target":"18e45ea0-4b12-47e6-94d2-7c316278d66c"},{"source":"b07981a1-f928-40df-91ae-a20da44e6bcb","target":"52878c2d-0c16-45f8-a86b-6fee3a6e130f"},{"source":"24f65b4f-ab1c-4eac-8a18-d3873b62b530","target":"52878c2d-0c16-45f8-a86b-6fee3a6e130f"},{"source":"24f65b4f-ab1c-4eac-8a18-d3873b62b530","target":"18e45ea0-4b12-47e6-94d2-7c316278d66c"},{"source":"1f5f8af0-c683-40f7-8741-d78637723a6c","target":"18e45ea0-4b12-47e6-94d2-7c316278d66c"},{"source":"42acff3b-86ca-47ac-b71d-c2b82265213b","target":"18e45ea0-4b12-47e6-94d2-7c316278d66c"},{"source":"e9340efd-0b8a-40cc-9ccd-6fdf08e4f5c5","target":"52878c2d-0c16-45f8-a86b-6fee3a6e130f"},{"source":"aebe1e53-b821-4cc4-b29e-df98b256bf48","target":"24f65b4f-ab1c-4eac-8a18-d3873b62b530"},{"source":"08d648aa-58f3-4fd1-85df-5771d3159fe7","target":"24f65b4f-ab1c-4eac-8a18-d3873b62b530"}],"nodes":{"5a1bc7be-dae0-4d64-8a2f-23501e6395ea":{"name":"Миронов Антон Николаевич","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"27c99057-9133-43bb-b926-a78f5ddf592a":{"name":"Левандровский Александр Максимович","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"d074a6e7-630c-43a6-b780-daa418b2b7e7":{"name":"Дергунов Александр Александрович","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"b07981a1-f928-40df-91ae-a20da44e6bcb":{"name":"Нечипоренко Александр Юрьевич","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"e9340efd-0b8a-40cc-9ccd-6fdf08e4f5c5":{"name":"Степанов Павел Валерьевич","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"1f5f8af0-c683-40f7-8741-d78637723a6c":{"name":"Макаревич Артём Денисович","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"08d648aa-58f3-4fd1-85df-5771d3159fe7":{"name":"Матчин Артемий Сергеевич","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"aebe1e53-b821-4cc4-b29e-df98b256bf48":{"name":"Шешуков Леонид Сергеевич","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"42acff3b-86ca-47ac-b71d-c2b82265213b":{"name":"Юрченков Иван Александрович","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"18e45ea0-4b12-47e6-94d2-7c316278d66c":{"name":"МОСИТ","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"24f65b4f-ab1c-4eac-8a18-d3873b62b530":{"name":"ИИТ","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""},"52878c2d-0c16-45f8-a86b-6fee3a6e130f":{"name":"КИС","icon":"https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg","url":""}}}
+{
+    "links": [
+        {
+            "source": "9c0e468e-a501-4031-8d21-da5f083e2fbc",
+            "target": "a08182d2-d3f8-41c9-9c61-7cc296dde438"
+        },
+        {
+            "source": "9c0e468e-a501-4031-8d21-da5f083e2fbc",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "9c0e468e-a501-4031-8d21-da5f083e2fbc",
+            "target": "f9c04658-ef37-4dc2-84cb-57cc2e3335bf"
+        },
+        {
+            "source": "9c0e468e-a501-4031-8d21-da5f083e2fbc",
+            "target": "0b698dfe-60c0-444c-938f-6b26cdcbb1ef"
+        },
+        {
+            "source": "9c0e468e-a501-4031-8d21-da5f083e2fbc",
+            "target": "8925683a-30d5-4941-a92a-d2adbf020408"
+        },
+        {
+            "source": "8669403c-0c98-4763-b042-d80980bedddd",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "8669403c-0c98-4763-b042-d80980bedddd",
+            "target": "2902084d-057e-437f-9d36-0a8456962086"
+        },
+        {
+            "source": "8669403c-0c98-4763-b042-d80980bedddd",
+            "target": "9f49ce3e-f8a1-47fc-a810-2905e23b2d33"
+        },
+        {
+            "source": "8669403c-0c98-4763-b042-d80980bedddd",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "946bcd57-d163-43b7-a389-a397cf4c0993"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "c66d7813-924b-4aaa-b4c8-1674f9f9c3d2"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "faf2f3f3-f51b-4f91-81a4-fad804d5dcec"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "731957d0-bab5-47f6-ac55-05c78b0153e9",
+            "target": "a08182d2-d3f8-41c9-9c61-7cc296dde438"
+        },
+        {
+            "source": "731957d0-bab5-47f6-ac55-05c78b0153e9",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "9e1e0474-219e-47d8-8322-bd93f8b6d5dc",
+            "target": "a08182d2-d3f8-41c9-9c61-7cc296dde438"
+        },
+        {
+            "source": "20a4ab78-3d74-4b0a-a108-c1760b0d8493",
+            "target": "a08182d2-d3f8-41c9-9c61-7cc296dde438"
+        },
+        {
+            "source": "e9f5911d-6528-4bda-affc-667d7ec0515d",
+            "target": "a08182d2-d3f8-41c9-9c61-7cc296dde438"
+        },
+        {
+            "source": "67f70ccb-ac7c-423c-a005-f3b05a496889",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "67f70ccb-ac7c-423c-a005-f3b05a496889",
+            "target": "0b698dfe-60c0-444c-938f-6b26cdcbb1ef"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "0b698dfe-60c0-444c-938f-6b26cdcbb1ef"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "8925683a-30d5-4941-a92a-d2adbf020408"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "2902084d-057e-437f-9d36-0a8456962086"
+        },
+        {
+            "source": "752d4447-1c37-410c-8484-604fe597e3f0",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "8bb350f8-3716-42bf-9219-755b25d05758",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "86d25328-631a-4454-8056-1066f463acc6",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "48aabfe4-6dd3-499b-b201-07f3886cde89",
+            "target": "f9c04658-ef37-4dc2-84cb-57cc2e3335bf"
+        },
+        {
+            "source": "48aabfe4-6dd3-499b-b201-07f3886cde89",
+            "target": "8925683a-30d5-4941-a92a-d2adbf020408"
+        },
+        {
+            "source": "48aabfe4-6dd3-499b-b201-07f3886cde89",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "48aabfe4-6dd3-499b-b201-07f3886cde89",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "4e5a9f57-2b8c-4e38-88fe-ad8d804b1733",
+            "target": "f9c04658-ef37-4dc2-84cb-57cc2e3335bf"
+        },
+        {
+            "source": "4e5a9f57-2b8c-4e38-88fe-ad8d804b1733",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "1e41d3bd-fe04-4c35-98d6-7786487cf045",
+            "target": "f9c04658-ef37-4dc2-84cb-57cc2e3335bf"
+        },
+        {
+            "source": "1e41d3bd-fe04-4c35-98d6-7786487cf045",
+            "target": "2902084d-057e-437f-9d36-0a8456962086"
+        },
+        {
+            "source": "1e41d3bd-fe04-4c35-98d6-7786487cf045",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "1e41d3bd-fe04-4c35-98d6-7786487cf045",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "1e41d3bd-fe04-4c35-98d6-7786487cf045",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "c107639e-282d-4d00-b8eb-af3ab4188968",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "c107639e-282d-4d00-b8eb-af3ab4188968",
+            "target": "0b698dfe-60c0-444c-938f-6b26cdcbb1ef"
+        },
+        {
+            "source": "3e1361fc-e693-44d8-bb61-6bb91322b8f4",
+            "target": "0b698dfe-60c0-444c-938f-6b26cdcbb1ef"
+        },
+        {
+            "source": "3e1361fc-e693-44d8-bb61-6bb91322b8f4",
+            "target": "fb47130c-caa5-45b9-bf51-5d464514440b"
+        },
+        {
+            "source": "ca705e38-69ca-477c-8093-ad3666986ba0",
+            "target": "8925683a-30d5-4941-a92a-d2adbf020408"
+        },
+        {
+            "source": "ca705e38-69ca-477c-8093-ad3666986ba0",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "ca705e38-69ca-477c-8093-ad3666986ba0",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "aa4cdb77-908a-45d4-96b0-e9e476949475",
+            "target": "8925683a-30d5-4941-a92a-d2adbf020408"
+        },
+        {
+            "source": "aa4cdb77-908a-45d4-96b0-e9e476949475",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "f9456a43-85bd-407f-9f42-fda6d9575886",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "f9456a43-85bd-407f-9f42-fda6d9575886",
+            "target": "2902084d-057e-437f-9d36-0a8456962086"
+        },
+        {
+            "source": "ad3df04e-bcd6-4ae3-a141-e6cb1c926492",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "c300690b-fe7f-4fbc-a925-21140baf8f4d",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "664990f9-62e0-4170-8e5a-253132338e6d",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "464e2fcf-e893-4269-bffd-1866cf1af7c8",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "22959600-7188-439e-bafb-0e7f41b017e5",
+            "target": "2d8e2fd7-600b-49c0-b51b-cb463226f342"
+        },
+        {
+            "source": "aa8fd00d-f0aa-4f4b-91bb-758a055fd0ec",
+            "target": "2902084d-057e-437f-9d36-0a8456962086"
+        },
+        {
+            "source": "76dc332d-98ca-4d03-bdb3-6a1db0e4f109",
+            "target": "9f49ce3e-f8a1-47fc-a810-2905e23b2d33"
+        },
+        {
+            "source": "1aa0d79a-1b8b-4c91-8926-813ba4c361b3",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "1aa0d79a-1b8b-4c91-8926-813ba4c361b3",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "d9852d65-71a6-47de-bf2d-b283e96c829c",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "d9852d65-71a6-47de-bf2d-b283e96c829c",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "d9852d65-71a6-47de-bf2d-b283e96c829c",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "af2840c7-62ee-485e-9638-fe12a9e51577",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "af2840c7-62ee-485e-9638-fe12a9e51577",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "9e9cc98f-332a-4ade-8baa-c90f4edc5670",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "9e9cc98f-332a-4ade-8baa-c90f4edc5670",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "b76cc81d-ea2c-4dd2-abe5-59b22bac75b5",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "b76cc81d-ea2c-4dd2-abe5-59b22bac75b5",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "b76cc81d-ea2c-4dd2-abe5-59b22bac75b5",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "e14f9793-1890-47d4-b1dd-05245efc49c1",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "e14f9793-1890-47d4-b1dd-05245efc49c1",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "21af5941-9ea9-43b7-b7b6-d138c34be028",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "21af5941-9ea9-43b7-b7b6-d138c34be028",
+            "target": "45ce5632-ce74-4c56-af8f-20b7ac16f60f"
+        },
+        {
+            "source": "21af5941-9ea9-43b7-b7b6-d138c34be028",
+            "target": "9f49ce3e-f8a1-47fc-a810-2905e23b2d33"
+        },
+        {
+            "source": "9eab4fb8-6b3d-45d4-a1ef-72812810211f",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "9eab4fb8-6b3d-45d4-a1ef-72812810211f",
+            "target": "946bcd57-d163-43b7-a389-a397cf4c0993"
+        },
+        {
+            "source": "9eab4fb8-6b3d-45d4-a1ef-72812810211f",
+            "target": "faf2f3f3-f51b-4f91-81a4-fad804d5dcec"
+        },
+        {
+            "source": "56f23fc8-8df5-45d1-a647-dd31804d250f",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "56f23fc8-8df5-45d1-a647-dd31804d250f",
+            "target": "946bcd57-d163-43b7-a389-a397cf4c0993"
+        },
+        {
+            "source": "56f23fc8-8df5-45d1-a647-dd31804d250f",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "9ae241b3-6c44-4dc8-80d1-1a748b5785fd",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "fd67a81a-88a2-44ce-8a97-f3816ccd472b",
+            "target": "266e431f-08e3-4719-bb8a-ffa31997e961"
+        },
+        {
+            "source": "fd67a81a-88a2-44ce-8a97-f3816ccd472b",
+            "target": "9a8b7f47-bfab-4dc3-97f3-bad65d6822be"
+        },
+        {
+            "source": "fc0dadd3-75b5-4aee-b66b-05d1cb664eb4",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "2c1201ea-cf6d-4e3b-ab82-217d9ed52864",
+            "target": "cb7c270a-06c4-46da-afd2-dcb809505d51"
+        },
+        {
+            "source": "e8b9cf98-fd8d-434c-b23f-fcdb740d7b40",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "fe664874-4450-4591-95c3-1f202ee4a9e3",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "59d7adb6-b8ca-49a3-a9a1-29965f5e7bf7",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        },
+        {
+            "source": "30f52ad5-fe53-4ed9-ab6f-1616a964f4c6",
+            "target": "2713c47c-25fd-4101-831b-870b8165cb13"
+        }
+    ],
+    "nodes": {
+        "9c0e468e-a501-4031-8d21-da5f083e2fbc": {
+            "name": "Самсунг",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "8669403c-0c98-4763-b042-d80980bedddd": {
+            "name": "Huawei",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "7a0400c7-1be4-4ee6-a3bc-ba03dc089fe2": {
+            "name": "Яндекс",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9a8b7f47-bfab-4dc3-97f3-bad65d6822be": {
+            "name": "Loginom",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "a08182d2-d3f8-41c9-9c61-7cc296dde438": {
+            "name": "IoT",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "fb47130c-caa5-45b9-bf51-5d464514440b": {
+            "name": "Java",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "f9c04658-ef37-4dc2-84cb-57cc2e3335bf": {
+            "name": "AI",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "0b698dfe-60c0-444c-938f-6b26cdcbb1ef": {
+            "name": "Kotlin",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "8925683a-30d5-4941-a92a-d2adbf020408": {
+            "name": "BD",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "2d8e2fd7-600b-49c0-b51b-cb463226f342": {
+            "name": "Stor.",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "2902084d-057e-437f-9d36-0a8456962086": {
+            "name": "Dat.",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9f49ce3e-f8a1-47fc-a810-2905e23b2d33": {
+            "name": "Wlan",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "45ce5632-ce74-4c56-af8f-20b7ac16f60f": {
+            "name": "AI",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "cb7c270a-06c4-46da-afd2-dcb809505d51": {
+            "name": "Лиц.",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "946bcd57-d163-43b7-a389-a397cf4c0993": {
+            "name": "Лиц+",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "c66d7813-924b-4aaa-b4c8-1674f9f9c3d2": {
+            "name": "С++",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "faf2f3f3-f51b-4f91-81a4-fad804d5dcec": {
+            "name": "Back",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "2713c47c-25fd-4101-831b-870b8165cb13": {
+            "name": "Front",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "266e431f-08e3-4719-bb8a-ffa31997e961": {
+            "name": "ML",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "731957d0-bab5-47f6-ac55-05c78b0153e9": {
+            "name": "Миронов Антон Николаевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9e1e0474-219e-47d8-8322-bd93f8b6d5dc": {
+            "name": "Левандровский Александр Максимович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "20a4ab78-3d74-4b0a-a108-c1760b0d8493": {
+            "name": "Дергунов Александр Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "e9f5911d-6528-4bda-affc-667d7ec0515d": {
+            "name": "Нечипоренко Александр Юрьевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "67f70ccb-ac7c-423c-a005-f3b05a496889": {
+            "name": "Степанов Павел Валерьевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "752d4447-1c37-410c-8484-604fe597e3f0": {
+            "name": "Макаревич Артём Денисович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "8bb350f8-3716-42bf-9219-755b25d05758": {
+            "name": "Матчин Артемий Сергеевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "86d25328-631a-4454-8056-1066f463acc6": {
+            "name": "Шешуков Леонид Сергеевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "48aabfe4-6dd3-499b-b201-07f3886cde89": {
+            "name": "Юрченков Иван Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "4e5a9f57-2b8c-4e38-88fe-ad8d804b1733": {
+            "name": "Снегирёв Дмитрий Алексеевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "1e41d3bd-fe04-4c35-98d6-7786487cf045": {
+            "name": "Морошкин Никита Андреевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "c107639e-282d-4d00-b8eb-af3ab4188968": {
+            "name": "Пьянков Семён Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "3e1361fc-e693-44d8-bb61-6bb91322b8f4": {
+            "name": "Запорожских Александр Игоревич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "ca705e38-69ca-477c-8093-ad3666986ba0": {
+            "name": "Буданцев Артём Владиславович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "aa4cdb77-908a-45d4-96b0-e9e476949475": {
+            "name": "Лаптев Иван Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "f9456a43-85bd-407f-9f42-fda6d9575886": {
+            "name": "Волков Михаил Юрьевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "ad3df04e-bcd6-4ae3-a141-e6cb1c926492": {
+            "name": "Исаева Ирина Андреевна",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "c300690b-fe7f-4fbc-a925-21140baf8f4d": {
+            "name": "Куликов Александр Анатольевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "664990f9-62e0-4170-8e5a-253132338e6d": {
+            "name": "Мирзоян Дмитрий Ильич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "464e2fcf-e893-4269-bffd-1866cf1af7c8": {
+            "name": "Петренко Александр Анатольевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "22959600-7188-439e-bafb-0e7f41b017e5": {
+            "name": "Семенов Роман Эдуардович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "aa8fd00d-f0aa-4f4b-91bb-758a055fd0ec": {
+            "name": "Ермаков Сергей Романович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "76dc332d-98ca-4d03-bdb3-6a1db0e4f109": {
+            "name": "Габриелян Гайк Ашотович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "1aa0d79a-1b8b-4c91-8926-813ba4c361b3": {
+            "name": "Высоцкая Анна Аркадьевна",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "d9852d65-71a6-47de-bf2d-b283e96c829c": {
+            "name": "Есипов Иван Владимирович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "af2840c7-62ee-485e-9638-fe12a9e51577": {
+            "name": "Крынецкий Борис Алексеевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9e9cc98f-332a-4ade-8baa-c90f4edc5670": {
+            "name": "Митин Михаил Петрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "b76cc81d-ea2c-4dd2-abe5-59b22bac75b5": {
+            "name": "Парамонов Александр Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "e14f9793-1890-47d4-b1dd-05245efc49c1": {
+            "name": "Староверов Игорь Николаевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "21af5941-9ea9-43b7-b7b6-d138c34be028": {
+            "name": "Горячев Антон Александрович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9eab4fb8-6b3d-45d4-a1ef-72812810211f": {
+            "name": "Миронов Никита Максимович ",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "56f23fc8-8df5-45d1-a647-dd31804d250f": {
+            "name": "Китанин Сергей Сергеевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "9ae241b3-6c44-4dc8-80d1-1a748b5785fd": {
+            "name": "Коновалова Светлана Владиславовна",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "fd67a81a-88a2-44ce-8a97-f3816ccd472b": {
+            "name": "Трифонова Ольга Александровна",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "fc0dadd3-75b5-4aee-b66b-05d1cb664eb4": {
+            "name": "Мисаилиди Анастас Аристидович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "2c1201ea-cf6d-4e3b-ab82-217d9ed52864": {
+            "name": "Валяев Данила Андреевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "e8b9cf98-fd8d-434c-b23f-fcdb740d7b40": {
+            "name": "Суринов Роман Альбертович",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "fe664874-4450-4591-95c3-1f202ee4a9e3": {
+            "name": "Коваленко Михаил Андреевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "59d7adb6-b8ca-49a3-a9a1-29965f5e7bf7": {
+            "name": "Братусь Надежда Валерьевна",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        },
+        "30f52ad5-fe53-4ed9-ab6f-1616a964f4c6": {
+            "name": "Баикин Кирилл Евгеньевич",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/09/49/1a0949f2-279e-cb45-ee85-fc1237fbf39a/source/512x512bb.jpg",
+            "url": ""
+        }
+    }
+}

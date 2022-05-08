@@ -1,6 +1,4 @@
-// import * as d3 from "http://d3js.org/d3.v3.min.js";
-
-const width = window.screen.width - 200;
+const width = window.screen.width;
 const height = window.screen.height - 150;
 
 const nodeSize = 16
@@ -25,7 +23,10 @@ export function createGraph(cValue) {
         .nodes(d3.values(nodes))
         .links(links)
         .on('tick', tick)
-        .linkDistance(nodeSize * 7)
+        .linkDistance(() => {
+            let temp = Math.random() * (nodeSize * 7) + nodeSize * 2
+            return temp
+        })
         .gravity(.15)
         .friction(.9)
         .linkStrength(1)
@@ -64,8 +65,9 @@ export function createGraph(cValue) {
         .attr("x", 0)
         .attr("y", 0)
         .attr("height", 2 * nodeSize)
-        // .attr("width", 2 * nodeSize)
-        .attr("xlink:href", function (d) { return d.icon; })
+        .attr("xlink:href", function (d) {
+            return d.icon;
+        })
 
     node.append("circle")
         .attr("r", nodeSize)

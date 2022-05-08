@@ -6,12 +6,13 @@ import { createGraph } from './generator.js';
 //     "nodes": {}
 // }
 
-fetch('../graph.json')
+const url = 'https://raw.githubusercontent.com/TheHarald/graph-view/master/graph.json'
+
+fetch(url)
     .then((response) => {
-        console.log(response.body)
         return response.json()
     }).then((data) => {
-        console.log(data)
+        createGraph(data)
     })
 
 // createGraph(value)
