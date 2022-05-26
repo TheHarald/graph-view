@@ -1,19 +1,19 @@
-import { createGraph } from './generator.js';
+// import { createGraph } from './generator.js';
 
 
-// let value = {
-//     "links": [],
-//     "nodes": {}
-// }
+// // let value = {
+// //     "links": [],
+// //     "nodes": {}
+// // }
 
-const url = 'https://raw.githubusercontent.com/TheHarald/graph-view/master/graph.json'
+// const url = 'https://raw.githubusercontent.com/TheHarald/graph-view/master/graph.json'
 
-fetch(url)
-    .then((response) => {
-        return response.json()
-    }).then((data) => {
-        createGraph(data)
-    })
+// fetch(url)
+//     .then((response) => {
+//         return response.json()
+//     }).then((data) => {
+//         createGraph(data)
+//     })
 
-// createGraph(value)
+// // createGraph(value)
 

@@ -1,5 +1,5 @@
 const width = window.screen.width;
-const height = window.screen.height - 150;
+const height = window.screen.height;
 
 const nodeSize = 16
 
